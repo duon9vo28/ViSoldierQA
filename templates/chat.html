@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot UI</title>
+    <link rel="stylesheet" href="/static/chat_ui.css">
+</head>
+<body>
+<div class="container">
+    <div class="sidebar">
+        <button onclick="goHome()" class="home-btn">Bắt đầu đoạn chat mới</button>
+        <p class="chat-history-label">Các đoạn chat trước đây</p>
+        <ul id="conversation-list"></ul>
+    </div>    
+    <div class="chat-area">
+        <div class='conversation-area'>
+            <div id="chat-messages" class="message-list"></div>
+            
+            <div class='chat-hidden'>
+                <form id="message-form-hidden">
+                    <textarea id="message-input-hidden" placeholder="Nhập câu hỏi..." required></textarea>
+                    <button type="submit" class="submit-btn-hidden">Gửi</button>
+                </form>
+            </div>
+
+            <div class="logout-container">
+                <button onclick="logout()" class="logout-btn">Đăng xuất</button>
+            </div>   
+            
+            <div class="chat-center-box">
+                <h2> Tôi có thể giúp gì cho bạn? </h2>
+                <form id="message-form">
+                    <textarea id="message-input" placeholder="Bắt đầu cuộc trò chuyện..." required></textarea>
+                    <button type="submit" class="submit-btn">Gửi</button>
+                </form>
+            </div>
+        </div>   
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="/scripts/chat.js"></script>
+</body>
+</html>

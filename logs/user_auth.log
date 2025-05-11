@@ -1,0 +1,128 @@
+2025-05-07 09:26:54,097 - MyLogger - INFO - Register failed: Email 'duong922003@gmail.com' already used.
+2025-05-07 09:40:20,936 - MyLogger - INFO - User logged in successfully: duong - duong922003@gmail.com
+2025-05-07 09:41:00,150 - MyLogger - INFO - User logged in successfully: duong - duong922003@gmail.com
+2025-05-07 09:41:53,721 - MyLogger - INFO - User registered successfully: duong922003 - abcxyz
+2025-05-07 09:42:15,110 - MyLogger - INFO - Login failed: User not found - duong922003
+2025-05-07 09:44:52,476 - MyLogger - INFO - User registered successfully: duong922003 - abcxyz
+2025-05-07 09:44:59,687 - MyLogger - INFO - Login failed: User not found - duong922003
+2025-05-07 09:47:24,216 - MyLogger - INFO - User registered successfully: duong922003 - abcxyz@gmail.com
+2025-05-07 09:47:42,037 - MyLogger - INFO - User logged in successfully: duong922003 - abcxyz@gmail.com
+2025-05-07 11:11:24,344 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5Mjg4NH0.gG_cLmq8cEABw9GJOlHkl-wsqzbQsVQ-7r6-RA_buPc
+2025-05-07 11:26:49,535 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5MzgwOX0.2X8xEK8URMPKBMjE4HtKLsk1AhRvEJMkJR1HBTqfHHs
+2025-05-07 11:28:48,732 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5MzkyOH0.dq3lK_UvOjKa3I48jMNY3liVOf8WyddRiwKuuLELWzg
+2025-05-07 11:33:36,750 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NDIxNn0.aGIn7ZZj-IBYpAzygPzRlvLxDjnUiP3YTOxoryGcK8g
+2025-05-07 11:39:32,354 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NDU3Mn0.Bp6VxK4ePvAgbQR1Qyqi_5B3EKBlCDrDvkOHYu27Etk
+2025-05-07 11:42:46,735 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NDc2Nn0.4y8mJyTPBOGoyyjriLIwtzQfctXOhzrTaXPl7qU4rCw
+2025-05-07 11:45:36,799 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NDkzNn0.09_em0o8pgAQrkOUTGQhwE7yk6aB-mFMnVM_troRoOk
+2025-05-07 11:47:52,978 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NTA3Mn0.fo3WZZD690xrbSXkh5kfASpQG9-A0RjgHbVGbx0KHv8
+2025-05-07 11:57:37,214 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjU5NTY1N30.ewUyyT07ppKFkuZOBLq9D2LA9nxx5OayvsRzFGKGLEo
+2025-05-07 20:43:27,230 - MyLogger - INFO - User login failed. Entered password: undefined, record password: 123456
+2025-05-07 20:48:49,888 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjYyNzUyOX0.5hGWd3VyV1FQlh802BchAcsZOELAXOt4YC003-9G1JE
+2025-05-08 07:40:24,871 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2NjYyNH0.1aQz1gNazTD1Tt6j48hb2RXi1CvyhcFqJ0oVJM48eTU
+2025-05-08 07:58:25,185 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2NzcwNX0.56ThJxhsBY7hhIoSWFdmfcORd_Cag4-Ll-C_-Hq1ARQ
+2025-05-08 08:03:04,490 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2Nzk4NH0.rDFzNju-4lT0Twm-cnSROtDxbydyyHS1NIg26KXxSHU
+2025-05-08 08:09:37,846 - MyLogger - INFO - User login failed. Entered password: 123, record password: 123456
+2025-05-08 08:09:41,959 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2ODM4MX0.aa4VSqyWPLWPjrAVVSQMBMn66GmEMeLQY1KpZm7ztWM
+2025-05-08 08:15:43,994 - MyLogger - INFO - User login failed. Entered password: 123, record password: 123456
+2025-05-08 08:15:47,457 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2ODc0N30.3h-Jbd7VvA-iTvWkXJsmohzX3PK6dcxU8Q3P0428mAs
+2025-05-08 08:27:09,119 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2OTQyOX0.MdrF9CBureLQ-K2FWPRbsM3mlVUI0et9pGzRnaXSwCg
+2025-05-08 08:32:14,310 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY2OTczNH0.mZSjbSeZeBa9Fw3GGpKL90IH2e9bKChMLry7J-7IAII
+2025-05-08 08:36:40,162 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDAwMH0.43dieV2HbOa_1o4Zu7ZZxesTX2L-7cmUi8lg_HnQ3a0
+2025-05-08 08:43:20,892 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDQwMH0.YVLMSpPkX1HtPVGRLx1pkfMuV8RG0mBgziLQ4VD3kjY
+2025-05-08 08:43:45,203 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDQyNX0.toc1z0_GNvY0G4cUjYOL89C-cMvFx6SkAvcF4Axi0zY
+2025-05-08 08:47:09,444 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDYyOX0.MzVHvFth70L69PwQbMeyW-BMY0VKGcwzpz2Aj_CWFg4
+2025-05-08 08:49:57,070 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDc5N30.XNPWhf2okI1UwKIcYQFJGyUws4DKxQvW7dLDgZjFz1A
+2025-05-08 08:52:43,798 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MDk2M30.ZVTdn83WXBUbqMwg9OHtkEn0uVbpF_wXUdKPQY79ue8
+2025-05-08 09:23:59,221 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MjgzOX0.lZ1Xhf5IL3UveORoaCEkfzMhUkpHJNGwvi6xZ2CF4QM
+2025-05-08 09:38:38,857 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3MzcxOH0.WJpi0noJL4b05SDCTnFZrIHas2OhaG3DyaAIPJG8NqM
+2025-05-08 09:43:06,409 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3Mzk4Nn0.fWhzkQ2Jx3sZVNxoM_50Kacccr6-bkM5jLfRbJ_D4yQ
+2025-05-08 09:48:41,469 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NDMyMX0.SXozNl0PF7faASGTPFZdRDI-yhtlebn5skOmOR549wo
+2025-05-08 09:57:10,776 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NDgzMH0.lD6A-mJFU5LOxZV-Q4mYZ3Ts0LErNe6sArgSa-vlU_0
+2025-05-08 10:01:18,861 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NTA3OH0.4xUzAgJtMfBNBcKXQqtZMiCsGaZLTa3sr1bQgwjkYuM
+2025-05-08 10:07:13,821 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NTQzM30.yPLAh7tVBNtQwoq1QFGRpqZnchYCW6hStpzaPZ1F_8A
+2025-05-08 10:09:05,527 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NTU0NX0.5Ctj4l3DqL6VxwOV5jgkG_LFdDTi407oIH6hAvRlSbM
+2025-05-08 10:17:26,695 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NjA0Nn0.KlJHgItthMaImIu5trbJB3vildp_k6NAH-PeKnMNG_Y
+2025-05-08 10:31:34,890 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3Njg5NH0.Iu3j_D8zH70rEqXUc7ldKdObuZCFV4tcPlXne3euZvw
+2025-05-08 10:43:55,010 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3NzYzNX0.nmo8c54R9sMwxJDkQz85v05fgq6dtgc9QI9BpAdNIko
+2025-05-08 10:54:14,336 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY3ODI1NH0.pApC4fdn1aUPqrQ-zAdaSJlI2TStQlsxmsp8DOJ5Ueo
+2025-05-08 11:24:40,299 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4MDA4MH0.BRjRpEraTT6NoNgO9sj00_L1sS_TS75-3G4z527CI6o
+2025-05-08 11:29:45,788 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4MDM4NX0.OYVe-pY9TfwH2-zF3xDYG1mMYvAYbONyu24QEc-zt7Q
+2025-05-08 11:40:24,317 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4MTAyNH0.HDL40r51scpKJKJonrU2RlCSbzNd3wD1TT9aWdTNfUM
+2025-05-08 11:46:37,943 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4MTM5N30.iK0OOkKrUDBsFGwpB9_m3jx5OnjEJk3pGG-rSrNCUrk
+2025-05-08 12:18:33,432 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4MzMxM30.I3d0h-9STUtmZ6l2VtxuWjOSdIUDCd9zzcMsCPKI3Jo
+2025-05-08 12:49:26,003 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4NTE2Nn0.3hmt-CPFxb6QOfQNTOIVEsGOf0ZjCGGlEZZq6AAjijs
+2025-05-08 12:51:57,640 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjY4NTMxN30.NFkEER_aj2J3ze0CKC6z82e58zTtYGRQkKw3sydi5hs
+2025-05-08 18:39:32,118 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNjE3Mn0.l1QIodSiuSOowHzb2erOy4_Jtlxm5Fhmy_kgEYPbvd4
+2025-05-08 18:45:23,491 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNjUyM30.AU3ZMqPTS3RGZSJBV8spCCWvIpwdftOvhYom-prH1yY
+2025-05-08 18:48:09,853 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNjY4OX0.Wc7ciP9WpheYktX8sSsBIVG8BiSgHX3AiinIeWSL87A
+2025-05-08 18:50:17,788 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNjgxN30.ngC_3XVv-FHFtoUIF5gUbJ27gOMDaG44-3FqwSG6Pys
+2025-05-08 18:54:24,985 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNzA2NH0.Ug6j-pHge9VkZpP5tq90hVZ3icDJMaQNio-Bwy5GHGc
+2025-05-08 18:59:28,902 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNzM2OH0.1-EaBHxALxGpAVRMeSQ9gbjWdf9pH4dc8_V4QjGOl14
+2025-05-08 18:59:51,526 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwNzM5MX0.9mCa1eShR2tyTm6F9ru0SO2sdg6GcqiqbA9zCkheIMQ
+2025-05-08 19:43:05,977 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcwOTk4NX0.qZWxjP7H__xhfNZQPqgDQq6PFewpqXLb810rdCGdHqI
+2025-05-08 20:15:35,930 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxMTkzNX0.p86UMBR0x2kBPYeAX6jQwIgRknbWILhfAPv1uvzUG_A
+2025-05-08 20:25:25,234 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxMjUyNX0.ltxbas8gb9f4EaN_ipX7fgZa_Mq5jsf4AJaVMm9eN9g
+2025-05-08 20:56:09,975 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxNDM2OX0.rfdJzXwZ2kGQPeEujSD77mktp6LcvDvNGfQZ-IDwOd8
+2025-05-08 21:08:25,512 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxNTEwNX0.Til05IKuCqqF6scebhieZ9ndT6SR7mOOlqUkcgmOzyc
+2025-05-08 21:11:16,527 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxNTI3Nn0.ViL7g5sCVs-OAE1fTXX6JAScbypoD-IgYId4Ni3qbVc
+2025-05-08 21:15:32,407 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcxNTUzMn0.OorMm2nDXdH_jbwIc2M8RfLgNaPG_eW5U-K7eHGAAok
+2025-05-08 23:41:43,061 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcyNDMwM30.uzxzLMTsxsxdP4Cl_kCuXHDZSqIiWyitF75p3iYQ12A
+2025-05-09 00:27:07,014 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcyNzAyN30.D-gQWUoWnNlrfHUaAJ42WqTgLh18dYc6RMWMh_8hPBQ
+2025-05-09 01:10:32,064 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0NjcyOTYzMn0.Yj6Jq063Vd4oy0vnlnc0hXliOgyfjW5IzN2lqYZQZtI
+2025-05-09 09:48:17,902 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0Njc2MDY5N30.M6v8fuUzh1F3x9HGbQ2QB1cdQd8VFFhDEPrlSmCX0SI
+2025-05-09 09:50:25,663 - MyLogger - INFO - User login successfully. User_id: 11, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImV4cCI6MTc0Njc2MDgyNX0.vyF1UUKdGpNjh_-fTcZzh7DBqMF8a2tPbTPcdcrdDAA
+2025-05-10 14:21:03,380 - MyLogger - INFO - User login successfully. User_id: 1, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZXhwIjoxNzQ2ODYzNDYzfQ.Y674TyfmwPijff8QNrH--rpHIqAGd10OdmJMb3G4uk0
+2025-05-10 14:22:25,230 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODYzNTQ1fQ.abTG42CfgjxMGIcdYGgCym2nBF6-cf5LZi5tXj1NzxA
+2025-05-10 14:44:51,079 - MyLogger - INFO - User login failed. Entered password: 555555, record password: 123456
+2025-05-10 15:28:13,076 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY3NDkzfQ.aQ1WVaBnCm_PMp5StsI941Ng1bw97G2kl_pjcDIhnx0
+2025-05-10 15:28:13,076 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY3NDkzfQ.aQ1WVaBnCm_PMp5StsI941Ng1bw97G2kl_pjcDIhnx0
+2025-05-10 15:28:51,367 - MyLogger - INFO - User login failed. Entered password: 789456, record password: 123456
+2025-05-10 15:28:51,367 - MyLogger - INFO - User login failed. Entered password: 789456, record password: 123456
+2025-05-10 15:29:11,023 - MyLogger - INFO - User login failed. Entered password: 789, record password: 123456
+2025-05-10 15:29:11,023 - MyLogger - INFO - User login failed. Entered password: 789, record password: 123456
+2025-05-10 15:35:49,617 - MyLogger - INFO - User login failed. Entered password: 789, record password: 123456
+2025-05-10 15:35:49,617 - MyLogger - INFO - User login failed. Entered password: 789, record password: 123456
+2025-05-10 15:35:49,760 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:35:49,760 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:41:22,680 - MyLogger - INFO - User login failed. Entered password: 178, record password: 123456
+2025-05-10 15:41:22,680 - MyLogger - INFO - User login failed. Entered password: 178, record password: 123456
+2025-05-10 15:41:22,797 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:41:22,797 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:45:10,711 - MyLogger - INFO - User login failed. Entered password: 123, record password: 123456
+2025-05-10 15:45:10,711 - MyLogger - INFO - User login failed. Entered password: 123, record password: 123456
+2025-05-10 15:45:10,835 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:45:10,835 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:47:30,031 - MyLogger - INFO - User login failed. Entered password: 123789, record password: 123456
+2025-05-10 15:47:30,031 - MyLogger - INFO - User login failed. Entered password: 123789, record password: 123456
+2025-05-10 15:47:30,165 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:47:30,165 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:50:49,008 - MyLogger - INFO - User login failed. Entered password: 78+, record password: 123456
+2025-05-10 15:50:49,008 - MyLogger - INFO - User login failed. Entered password: 78+, record password: 123456
+2025-05-10 15:50:49,136 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:50:49,136 - MyLogger - INFO - Token undefined expired.
+2025-05-10 15:51:02,546 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY4ODYyfQ.p3AcYbD8-DnCRXqLkJ6usYARPz8hoa2dHEnlRHsIHpA
+2025-05-10 15:51:02,546 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY4ODYyfQ.p3AcYbD8-DnCRXqLkJ6usYARPz8hoa2dHEnlRHsIHpA
+2025-05-10 15:52:29,193 - MyLogger - INFO - User login failed. Entered password: 1, record password: 123456
+2025-05-10 15:52:29,193 - MyLogger - INFO - User login failed. Entered password: 1, record password: 123456
+2025-05-10 15:52:37,629 - MyLogger - INFO - User login failed. Entered password: 123456789, record password: 123456
+2025-05-10 15:52:37,629 - MyLogger - INFO - User login failed. Entered password: 123456789, record password: 123456
+2025-05-10 15:54:36,769 - MyLogger - INFO - User login failed. Entered password: 12, record password: 123456
+2025-05-10 15:54:36,769 - MyLogger - INFO - User login failed. Entered password: 12, record password: 123456
+2025-05-10 15:55:07,970 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5MTA3fQ.z2TaEYKqolV6c_cteES023SQsGhvlScFEcF05Uhvv7w
+2025-05-10 15:55:07,970 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5MTA3fQ.z2TaEYKqolV6c_cteES023SQsGhvlScFEcF05Uhvv7w
+2025-05-10 16:01:52,932 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5NTEyfQ.ktVPDhEtgomgz-jQxQUDAVchfw_xNECePkpcwrUfTlc
+2025-05-10 16:01:52,932 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5NTEyfQ.ktVPDhEtgomgz-jQxQUDAVchfw_xNECePkpcwrUfTlc
+2025-05-10 16:08:54,490 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5OTM0fQ.Izn6Lea9hj-GDS833rovALo_WfAP05xP9maLXQwJ20s
+2025-05-10 16:08:54,490 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODY5OTM0fQ.Izn6Lea9hj-GDS833rovALo_WfAP05xP9maLXQwJ20s
+2025-05-10 21:51:30,919 - MyLogger - INFO - User login failed. Entered password: abcxyz, record password: 123456
+2025-05-10 21:51:30,919 - MyLogger - INFO - User login failed. Entered password: abcxyz, record password: 123456
+2025-05-10 21:53:30,459 - MyLogger - INFO - User login failed. Entered password: 123456789, record password: 123456
+2025-05-10 21:53:30,459 - MyLogger - INFO - User login failed. Entered password: 123456789, record password: 123456
+2025-05-10 21:55:17,555 - MyLogger - INFO - Username duong28022003 registration accepted.
+2025-05-10 21:55:17,555 - MyLogger - INFO - Username duong28022003 registration accepted.
+2025-05-10 21:55:32,466 - MyLogger - INFO - User login successfully. User_id: 4, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0IiwiZXhwIjoxNzQ2ODkwNzMyfQ.r2c3mzkOw6sYJntbKX13Fhbi3DaFW3nJqTn-6VGjuls
+2025-05-10 21:55:32,466 - MyLogger - INFO - User login successfully. User_id: 4, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0IiwiZXhwIjoxNzQ2ODkwNzMyfQ.r2c3mzkOw6sYJntbKX13Fhbi3DaFW3nJqTn-6VGjuls
+2025-05-10 22:24:51,218 - MyLogger - INFO - User login successfully. User_id: 4, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0IiwiZXhwIjoxNzQ2ODkyNDkxfQ.3a4oMec1W_1eDMejlEQoIa6HUkPoRXXaxhGUkg9UCNY
+2025-05-10 22:24:51,218 - MyLogger - INFO - User login successfully. User_id: 4, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0IiwiZXhwIjoxNzQ2ODkyNDkxfQ.3a4oMec1W_1eDMejlEQoIa6HUkPoRXXaxhGUkg9UCNY
+2025-05-10 22:24:54,754 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODkyNDk0fQ.UdXhqzz8cVUzsmvYeOthAoO-na8IYsdaJRgq2TDFGbQ
+2025-05-10 22:24:54,754 - MyLogger - INFO - User login successfully. User_id: 2, Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwiZXhwIjoxNzQ2ODkyNDk0fQ.UdXhqzz8cVUzsmvYeOthAoO-na8IYsdaJRgq2TDFGbQ

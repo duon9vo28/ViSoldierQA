@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Registration Form</title>
+    <link rel="stylesheet" href="/static/registration.css" />
+</head>
+<body>
+    <div class="main">
+        <h2>Thông tin người dùng</h2>
+        <div id="error-message" class="error"></div>
+        <div id="success-message" class="success"></div>
+        <form id="registration-form" action="" >
+            <label>Họ và tên <span class="required">*</span> </label>
+            <input type="text" id="name" name="name" placeholder="Nguyễn Văn A"/>
+
+            <label>Ngày sinh</label>
+            <input type="text" id="birthday" name="dob" placeholder="01/02/2003"/>
+
+            <label>Tên đăng nhập <span class="required">*</span> </label>
+            <input type="text" id="username" name="username" placeholder="nguyenvana"/>
+
+            <label for="email">Email <span class="required">*</span> </label>
+            <input type="text" id="email" name="email"  placeholder="abcxyz@gmail.com" autocomplete="username"/>
+
+            <label for="password">Mật khẩu <span class="required">*</span> </label>
+            <input type="password" id="password" name="password" placeholder="123456" autocomplete="new-password"/>
+
+            <label for="repassword">Xác nhận mật khẩu <span class="required">*</span> </label>
+            <input type="password" id="repassword" name="repassword" placeholder="123456" autocomplete="new-password"/>
+
+            <button type="submit">Đăng kí tài khoản</button>
+        </form>
+        <a href="/" target="_self" class = "already">  Đã có tài khoản? </a>
+    </div>
+
+    <script src="/scripts/registration.js"></script>
+
+</body>
+</html>

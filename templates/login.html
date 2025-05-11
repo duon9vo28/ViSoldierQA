@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/login.css">
+    <title>ViSoldierQA</title>
+</head>
+<body>
+    <div class="container">
+        <div class="login-box">
+            
+            <div class='slogan-logo'>
+                <img src="/static/images/ViSoldierQA2.png" class="chat-logo">
+                <p class="duongvo">
+                    From 
+                    <img src="/static/images/linkedin.png" style="height: 14px; width: 14px;">
+                    <a href="https://www.linkedin.com/in/duc-duong-vo-6422591b5/" target="_blank" style="color: purple; font-weight: bold;"> 
+                        Dương Võ Lụy A50 
+                    </a> 💘💘💘
+                </p>
+                <p class="description"> Giúp bạn giải đáp thắc mắc về Quân đội nhân dân Việt Nam</p>
+                <p id="errorMessage" style="color: red; margin-top: 10px;"></p>
+
+            </div>
+
+            <form id="loginForm" action="#">
+                <div class="form-group" id="account">
+                    <label for="username">Tài khoản</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+            
+                <div class="form-group" id="password-group">
+                    <label for="password">Mật khẩu</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+            
+                <div class="buttons">
+                    <button type="submit" id="loginBtn" class="login-btn">Đăng nhập</button>
+                    <button type="button" id="signupBtn" class="signup-btn">Chưa có tài khoản?</button>
+                </div>
+            </form>
+            <script src="/scripts/login.js"></script>
+        </div>
+    </div>
+
+        <script>
+        document.getElementById("signupBtn").addEventListener("click", function () {
+            window.location.href = "/registration";
+        });
+        </script>
+</body>
+</html>
