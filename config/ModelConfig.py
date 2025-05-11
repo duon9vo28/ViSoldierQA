@@ -5,10 +5,10 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).parent))
 
 class APIConfig:
-    LANGSMITH_API_KEY = 'Your-Key'
-    GROQ_API_KEY = 'Your-Key'
-    QDRANT_API_KEY = 'Your-Key.eyJhY2Nlc3MiOiJtIn0.NuM4zPgiBXg-VHdCkBlVaWVHoS-Dn_6qWU9tQHnF6nM'
-    QDRANT_URL = 'Your-Url'
+    LANGSMITH_API_KEY = 'Your Key'
+    GROQ_API_KEY = 'Your Key'
+    QDRANT_API_KEY = 'Your Key'
+    QDRANT_URL = 'Your URL'
     QDRANT_COLLECTION_NAME = 'Vietnamese_Soliders_chunks'
     TOP_K = 20
     CHAT_HISTORY = 10
