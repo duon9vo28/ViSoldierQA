@@ -5,9 +5,12 @@ python-jose
 pyjwt
 psycopg2-binary
 pydantic
+pydantic[email]
 langchain
 langchain-groq
 langchain-core
 qdrant-client
 sentence-transformers
 jinja2
+python-dotenv
+python-multipart
