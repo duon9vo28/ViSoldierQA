@@ -114,4 +114,4 @@ or
     
     * Some libraries such as sentence-transformers could be installed with default dependancies (PyTorch, ...). This could lead to an *Conflict Error*, or *Incompatible Device* (Cuda). You should install these dependancies manually.
 
-    * For personal information security, API keys will not be included in this repository. You can create your own keys or adjust the models in ***config/ModelConfig.py***
+    * All of the environment variables, model names and some configurations were defined in the file `.env`, you will have to replace them with your own value. Besides, a sample of my data collection was included in `database/data.csv`, you can utilize it for your customized system.
