@@ -1,6 +1,6 @@
 # Table Scripts
 import psycopg2
-
+from config.DatabaseConfig import getDatabaseConfig
 
 """
 CREATE TABLE users (
@@ -33,12 +33,15 @@ CREATE TABLE messages (
 # CONNECT TO DATABASE
 
 def get_db():
+    
+    user, password, dbname, host, port = getDatabaseConfig()
+    
     conn = psycopg2.connect(
-        dbname="chatbot_db",
-        user="postgres",
-        password="2802",
-        host="localhost",
-        port="5432"
+        dbname=dbname,
+        user=user,
+        password=password,
+        host=host,
+        port=port
     )
     
     conn.autocommit = True
