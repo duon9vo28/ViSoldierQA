@@ -89,6 +89,8 @@ The collected documents were:
 
     *  **Chain-Of-Thought (CoT)**: Enhance the performance of the system by intergrating Chain-of-thought - a technique to enhance the response from the model. 
 
+    * **Re-Ranking**: Rerank all the retrieval documents to get better context for results.
+
     * **AutoRAG - AgenticRAG**: The data sources from the database will need to be often upated, or search for external sources in case there is not enough context for the answer. In the near future, I will integrate some agents to enhance the performance.
 
 # 💻 Run the system
