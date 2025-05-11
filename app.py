@@ -21,6 +21,7 @@ import jwt
 
 from PromptTemplate.prompt import PromptTemplate
 from config.ModelConfig import APIConfig
+from config.DatabaseConfig import getDatabaseConfig
 from database import database
 from database.database import get_db
 from routes.user_service import user_service_router
@@ -140,12 +141,14 @@ async def stream_message(
             await asyncio.sleep(0.05)  
 
         # Lưu phản hồi của bot
+        dbname, user, password, host, port = getDatabaseConfig()
+        
         with psycopg2.connect(
-                dbname="chatbot_db",
-                user="postgres",
-                password="2802",
-                host="localhost",
-                port="5432"
+                dbname=dbname,
+                user=user,
+                password=password,
+                host=host,
+                port=port
             ) as conn:
                 with conn.cursor() as cur2:
                     cur2.execute("""
