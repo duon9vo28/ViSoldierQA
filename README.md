@@ -32,7 +32,7 @@ To ask a new question, click on **"Bắt đầu đoạn chat mới"**. You can a
 
 # 🛠 What have I done?
 
-- Developed an AI assistant powered by **RAG (Retrieval-Augmented Generation)** using the LangChain framework.
+- Developed an AI assistant powered by **RAG (Retrieval-Augmented Generation)** using the **LangChain** framework.
 
 - Crawled, cleaned, and processed military-related documents from official and reliable sources, then stored them in a **Qdrant Cloud** vector database.
 
@@ -115,4 +115,3 @@ or
     * Some libraries such as sentence-transformers could be installed with default dependancies (PyTorch, ...). This could lead to an *Conflict Error*, or *Incompatible Device* (Cuda). You should install these dependancies manually.
 
     * For personal information security, API keys will not be included in this repository. You can create your own keys or adjust the models in ***config/ModelConfig.py***
-# ViSoldierQA
