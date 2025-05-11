@@ -113,3 +113,4 @@ or
     * Some libraries such as sentence-transformers could be installed with default dependancies (PyTorch, ...). This could lead to an *Conflict Error*, or *Incompatible Device* (Cuda). You should install these dependancies manually.
 
     * For personal information security, API keys will not be included in this repository. You can create your own keys or adjust the models in ***config/ModelConfig.py***
+# ViSoldierQA
